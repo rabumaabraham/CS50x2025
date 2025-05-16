@@ -1,0 +1,32 @@
+HTML tags used:
+- <nav>
+- <ul>
+- <li>
+- <form>
+- <input>
+- <button>
+- <h1>
+- <p>
+- <script>
+- <ol>
+
+CSS Selectors:
+- body
+- h1
+- p
+- ul
+- form input
+
+CSS Properties:
+- background-color
+- font-family
+- font-size
+- color
+- padding
+
+Bootstrap:
+- Navbar for navigation
+- Button styles
+
+JavaScript:
+- Used to create alerts when buttons are clicked
