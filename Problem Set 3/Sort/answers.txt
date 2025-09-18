@@ -1,0 +1,8 @@
+sort1 uses: Bubble Sort
+How do you know?: When testing with large inputs, sort1 took the longest time, which matches bubble sort’s O(n^2) runtime. It repeatedly swapped adjacent numbers until sorted.
+
+sort2 uses: Merge Sort
+How do you know?: Sort2 was the fastest with large inputs, which is consistent with merge sort’s O(n log n) performance. It divides the list into smaller parts and merges them.
+
+sort3 uses: Selection Sort
+How do you know?: Sort3 was slower than merge sort but faster than bubble sort. This matches selection sort’s O(n^2) performance with fewer swaps since it selects the smallest element each pass.
